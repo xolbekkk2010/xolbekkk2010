@@ -1,5 +1,5 @@
 ## Hi I'm Xolbek Qurbonboyev Akbar o'g'li 👋
-  Men 2010-yil Xorazm viloyati Xonqa tumani Mustaqillik mahallasi 6-uyda tug'ilganman
+<h4>  Men 2010-yil Xorazm viloyati Xonqa tumani Mustaqillik mahallasi 6-uyda tug'ilganman</h4>
 <!--
 **xolbekkk2010/xolbekkk2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
