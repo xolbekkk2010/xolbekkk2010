@@ -2,7 +2,7 @@
 <h4>  Men 2010-yil Xorazm viloyati Xonqa tumani Mustaqillik mahallasi 6-uyda tug'ilganman</h4>
 <h3> Men katta bo'lsam Dasturchi bo'lmoqchiman. Uning uchun menga IT, Ingliz tili, Matematika va Fizika kerak bo'ladi</h3>
 <h2>Men qiziqadigan sport turlari futbol, handbol va valeybol</h2>
-<h2>Men hozirda ingliz tilini va matematikani o'rganyabman </h2>
+<h2>Men hozirda IT,ingliz tilini va matematikani o'rganyabman </h2>
 <!--
 **xolbekkk2010/xolbekkk2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
